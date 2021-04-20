@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Loma Soleado",
+    "author": "G. Cooper",
+    "category": "Dia/Invierno",
+    "hero": "loma.jpg"
+  },
+  {
+    "title": "Loma Rio Nublaco",
+    "author": "G. Cooper",
+    "category": "Dia/Invierno",
+    "hero": "loma-rio.jpg"
+  },
+  {
+    "title": "Campo desde Loma",
+    "hero": "FullSizeRender.jpg",
+    "prominent": true
+  },
+  {
+    "title": "Vista desde Casa",
+    "author": "G. Cooper",
+    "category": "Dia/Verano",
+    "hero": "casa4.jpg"
+  },
+  {
+    "title": "Noche casa",
+    "author": "G. Cooper",
+    "category": "Noche/Verano",
+    "hero": "casa2.jpg"
+  },
+  {
+    "title": "Arroyo",
+    "author": "J. Avila",
+    "category": "Dia/Primavera",
+    "hero": "arroyo.jpg"
+  },
+  {
+    "title": "Blanco y Negro",
+    "author": "G. Cooper",
+    "category": "Blanco/Negro",
+    "hero": "blancoNegro.jpg"
+  },
+  {
+    "title": "Rio",
+    "author": "G. Cooper",
+    "category": "Dia/Ingerno",
+    "hero": "rio2.jpg"
+  },
+  {
+    "title": "Loma Rio",
+    "author": "G. Cooper",
+    "category": "Dia/Invierno",
+    "hero": "loma-rio.jpg"
+  },
+  {
+    "title": "Sierra Casa",
+    "author": "J. Avila",
+    "category": "Dia/Verano",
+    "hero": "sierr2.jpg"
+  },
+  {
+    "title": "Noche",
+    "author": "G. cooper",
+    "category": "Noche/Verano",
+    "hero": "noche.jpg"
+  },
+  {
+    "title": "Planicie Caballos",
+    "author": "G. Cooper",
+    "category": "Dia/Inverno",
+    "hero": "planicie.jpg"
+  },
+  {
+    "title": "Bosque Invierno",
+    "author": "G. Cooper",
+    "category": "Dia/Inverno",
+    "hero": "bosque.jpg"
+  },
+  {
+    "title": "Campo desde sierra",
+    "hero": "FullSizeRender4.jpg",
+    "prominent": true
+  },
+  {
+    "title": "Fogon Noche",
+    "author": "G. Cooper",
+    "category": "Noche/Invierno",
+    "hero": "fogon.jpg"
+  }
+]
